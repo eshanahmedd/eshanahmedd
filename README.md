@@ -113,11 +113,6 @@
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eshanahmedd" />
 </a></p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-
 ## 🎯 Fun Fact
 
 > 💡 “I don’t just build websites, I build digital experiences.” — Me 😄
