@@ -7,7 +7,7 @@
 - 🔧 I specialize in Off-Page SEO, WordPress Development & WooCommerce customization  
 - 🛒 Building powerful, lightweight WooCommerce plugins with custom Elementor widgets  
 - ⚡ Love crafting fast, responsive, SEO-optimized websites  
-- 🔭 I’m currently working on [GrandBD](https://grandbd.com/)  
+- 🔭 I’m currently working on [MAK Tech Solution ](https://maktechsolution.com/?fbclid=IwY2xjawKEgphleHRuA2FlbQIxMABicmlkETFkZFJQZlNDVFd2Szk4aXo3AR6M5C8Kq9RCbPUCYTqzFqVBjiBh9Gi6F3w5M1IkcETaIf5jsB1GVRILjYtVEw_aem_uM-VKNp2jnb_sGc_DL0w7w)  
 - 🌱 I’m currently learning **Flutter, Android Studio**  
 - 💬 Ask me about **WordPress, JavaScript, React JS**  
 - 👨‍💻 All of my projects are available at [eshanahmed.info](https://eshanahmed.info)  
